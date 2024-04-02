@@ -1,0 +1,8 @@
+.ribbon {
+  background-color: #5bc8f7;
+}
+
+.ribbon::after {
+  content: "Look at this orange box.";
+  background-color: #ffba10;
+  border-color: red;
